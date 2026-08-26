@@ -200,9 +200,9 @@ section{ position: relative; }
   padding: 100px 0 60px;
   overflow: hidden;
   background:
-    radial-gradient(ellipse 900px 500px at 85% -10%, rgba(74,47,92,0.55), transparent 60%),
-    radial-gradient(ellipse 700px 500px at 5% 110%, rgba(125,36,54,0.25), transparent 60%),
-    var(--c-bg);
+  radial-gradient(ellipse 900px 550px at 85% -10%, rgba(146,115,194,0.5), transparent 62%),
+  radial-gradient(ellipse 800px 550px at 5% 110%, rgba(184,73,95,0.25), transparent 62%),
+  linear-gradient(180deg, #3a3148, #241d2e);
 }
 .hero-facets{
   position: absolute;
